@@ -71,12 +71,12 @@ function printPage(){
   window.print()
 }
 
-/***************************************************************************************
-*    Adapted from:
-*
-*    Title: Resume
-*    Author: Naomi Bastian Weatherford
-*    Date of access: 31/02/2023
-*    Availability: https://codepen.io/astronaomical/pen/KexYgb
-*
-***************************************************************************************/
+// /***************************************************************************************
+// *    Adapted from:
+// *
+// *    Title: Resume
+// *    Author: Naomi Bastian Weatherford
+// *    Date of access: 31/02/2023
+// *    Availability: https://codepen.io/astronaomical/pen/KexYgb
+// *
+// ***************************************************************************************/
